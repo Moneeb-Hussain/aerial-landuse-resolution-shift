@@ -1,0 +1,28 @@
+seed,k_per_class,init,acc
+0,0,aerial-pretrained (UC Merced then adapt),0.328
+0,5,aerial-pretrained (UC Merced then adapt),0.7765
+0,5,ImageNet only (adapt directly),0.579
+0,10,aerial-pretrained (UC Merced then adapt),0.849
+0,10,ImageNet only (adapt directly),0.81
+0,20,aerial-pretrained (UC Merced then adapt),0.9115
+0,20,ImageNet only (adapt directly),0.934
+0,50,aerial-pretrained (UC Merced then adapt),0.973
+0,50,ImageNet only (adapt directly),0.972
+1,0,aerial-pretrained (UC Merced then adapt),0.253
+1,5,aerial-pretrained (UC Merced then adapt),0.751
+1,5,ImageNet only (adapt directly),0.624
+1,10,aerial-pretrained (UC Merced then adapt),0.817
+1,10,ImageNet only (adapt directly),0.732
+1,20,aerial-pretrained (UC Merced then adapt),0.894
+1,20,ImageNet only (adapt directly),0.9
+1,50,aerial-pretrained (UC Merced then adapt),0.9555
+1,50,ImageNet only (adapt directly),0.957
+2,0,aerial-pretrained (UC Merced then adapt),0.2385
+2,5,aerial-pretrained (UC Merced then adapt),0.798
+2,5,ImageNet only (adapt directly),0.6515
+2,10,aerial-pretrained (UC Merced then adapt),0.8345
+2,10,ImageNet only (adapt directly),0.7475
+2,20,aerial-pretrained (UC Merced then adapt),0.9225
+2,20,ImageNet only (adapt directly),0.911
+2,50,aerial-pretrained (UC Merced then adapt),0.964
+2,50,ImageNet only (adapt directly),0.9625
